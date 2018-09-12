@@ -1,0 +1,23 @@
+00_MI2:
+  title: Website of the MI2 Group
+  link: http://mi2.mini.pw.edu.pl
+  avatar: /media/links/MI2_logo.jpg
+  # description: MI^2 is a group 
+  
+01_auditor:
+  title: An R package auditor
+  link: https://github.com/MI2DataLab/auditor
+  avatar: /media/links/auditor.png
+  description: Audit of regression models
+
+02_live:
+  title: An R package live
+  link: https://mi2datalab.github.io/live/
+  avatar: /media/links/live.png
+  description: Local Interpretable Visual Explanations
+
+03_dalex:
+  title: An R package DALEX
+  link: https://pbiecek.github.io/DALEX/
+  avatar: /media/links/dalex.png
+  description: Descriptive mAchine Learning EXplanations
