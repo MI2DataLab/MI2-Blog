@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313"
+baseURL = "https://jolly-golick-3d1230.netlify.com"
 languageCode = "en"
 title = "MI2 Blog"
 theme = "hugo-nuo"
