@@ -33,7 +33,7 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   author = "MI2"
   avatar = "/img/MI2_logo.jpg"
   seotitle = "MI2 Blog"
-  subtitle = "~ How machine learning failed ~"
+  subtitle = "~ When machine learning fails ~"
   description = "Machine Learning and its applications"
   paginate = 10
 
