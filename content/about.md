@@ -43,4 +43,4 @@ Our projects include
 
 
 
-It is primarily maintained by [Alicja Gosiewska](http://gosiewska.com) and [Mateusz Staniak](http://www.mstaniak.pl).
+Blog is primarily maintained by [Alicja Gosiewska](http://gosiewska.com) and [Mateusz Staniak](http://www.mstaniak.pl).
