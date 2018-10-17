@@ -7,26 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.</copyright>
-    <lastBuildDate>Wed, 12 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Example</title>
-      <link>/tags/example/</link>
-      <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
+      <title>Hello World</title>
+      <link>/tags/hello-world/</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/example/</guid>
+      <guid>/tags/hello-world/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
+      <title>Iml</title>
+      <link>/tags/iml/</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/r-markdown/</guid>
+      <guid>/tags/iml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta</title>
+      <link>/tags/meta/</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/meta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xai</title>
+      <link>/tags/xai/</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/xai/</guid>
       <description></description>
     </item>
     
