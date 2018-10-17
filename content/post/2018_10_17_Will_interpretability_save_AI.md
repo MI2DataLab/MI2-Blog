@@ -1,5 +1,5 @@
 ---
-title: "Will Interpretability save AI?"
+title: "Will Interpretability Save AI?"
 author: "Alicja Gosiewska and Mateusz Staniak"
 date: 2018-10-17
 categories: [""]
@@ -14,7 +14,7 @@ the great success of AI was thanks to statistics, not formal logic.
 
 <!--However,  its progress was still constrained by a lack of computing power.  Rapid advance of computer technology removed those inhibitions.
 -->
-During its development, AI has already gone through two periods known as AI winters (1974 - 1980 and 1987 -1993).
+During its development, AI has already gone through two periods known as AI winters (1974 - 1980 and 1987 - 1993).
 They were the result of not meeting the exaggerated expectations in fields like automatic translation and general AI (AGI).
 
 Spring came when new applications or approaches to AI were discovered.

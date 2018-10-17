@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MI2 Blog</title>
-    <link>/</link>
+    <link>https://mi2datalab.netlify.com/</link>
     <description>Recent content on MI2 Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.</copyright>
     <lastBuildDate>Wed, 12 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mi2datalab.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://mi2datalab.netlify.com/about/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://mi2datalab.netlify.com/about/</guid>
       <description>This blog is about areas of interests and research of members of MI2 Group at Warsaw University of Technology. The head of MI2 Group is prof. Przemysław Biecek. Currently, our work is focused on interpretable machine learning. We also cooperate with practitioners from other fields on projects related to genetics, medicine and education.
 Our projects include
  DALEX: Descriptive mAchine Learning EXplanations and a family of packages related to xAI:</description>
@@ -25,30 +25,30 @@ Our projects include
     
     <item>
       <title>Links</title>
-      <link>/links/</link>
+      <link>https://mi2datalab.netlify.com/links/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/links/</guid>
+      <guid>https://mi2datalab.netlify.com/links/</guid>
       <description>Ritchie and his friends.</description>
     </item>
     
     <item>
-      <title>Will Interpretability save AI?</title>
-      <link>/post/2018_10_17_will_interpretability_save_ai/</link>
+      <title>Will Interpretability Save AI?</title>
+      <link>https://mi2datalab.netlify.com/post/2018_10_17_will_interpretability_save_ai/</link>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018_10_17_will_interpretability_save_ai/</guid>
+      <guid>https://mi2datalab.netlify.com/post/2018_10_17_will_interpretability_save_ai/</guid>
       <description>Even though work on Artificial Intelligence began in 1956 and the field didn’t really take off.
 Well, it did, but not the way the founding fathers anticipated: the great success of AI was thanks to statistics, not formal logic.
-During its development, AI has already gone through two periods known as AI winters (1974 - 1980 and 1987 -1993). They were the result of not meeting the exaggerated expectations in fields like automatic translation and general AI (AGI).</description>
+During its development, AI has already gone through two periods known as AI winters (1974 - 1980 and 1987 - 1993). They were the result of not meeting the exaggerated expectations in fields like automatic translation and general AI (AGI).</description>
     </item>
     
     <item>
       <title>Resume</title>
-      <link>/resume/</link>
+      <link>https://mi2datalab.netlify.com/resume/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/resume/</guid>
+      <guid>https://mi2datalab.netlify.com/resume/</guid>
       <description></description>
     </item>
     
