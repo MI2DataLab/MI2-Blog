@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meta on MI2 Blog</title>
-    <link>/tags/meta/</link>
+    <link>https://mi2datalab.netlify.com/tags/meta/</link>
     <description>Recent content in Meta on MI2 Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.</copyright>
     <lastBuildDate>Wed, 17 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mi2datalab.netlify.com/tags/meta/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Will Interpretability Save AI?</title>
-      <link>/post/2018_10_17_will_interpretability_save_ai/</link>
+      <link>https://mi2datalab.netlify.com/post/2018_10_17_will_interpretability_save_ai/</link>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018_10_17_will_interpretability_save_ai/</guid>
+      <guid>https://mi2datalab.netlify.com/post/2018_10_17_will_interpretability_save_ai/</guid>
       <description>Even though work on Artificial Intelligence began in 1956 and the field didn’t really take off.
 Well, it did, but not the way the founding fathers anticipated: the great success of AI was thanks to statistics, not formal logic.
 During its development, AI has already gone through two periods known as AI winters (1974 - 1980 and 1987 - 1993). They were the result of not meeting the exaggerated expectations in fields like automatic translation and general AI (AGI).</description>
