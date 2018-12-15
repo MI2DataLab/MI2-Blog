@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rstudio on MI2 Blog</title>
+    <link>/tags/rstudio/</link>
+    <description>Recent content in Rstudio on MI2 Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.</copyright>
+    <lastBuildDate>Sat, 15 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/rstudio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R &#43; binder = interactive Jupyter notebooks in the cloud</title>
+      <link>/post/pkgdown/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/pkgdown/</guid>
+      <description>Have you ever found a GitHub repository with an interesting R package?  Probably yes. 
+How cool would it be to try it out without having to deal with installation and dependencies?
+Fortunately, it is possible thanks to the BinderHub - the server technology that turns computational material (e.g. Jupyter Notebook) into interactive computational environments in the cloud.
+Here you can see an example of such interactive notebook.</description>
+    </item>
+    
+  </channel>
+</rss>
